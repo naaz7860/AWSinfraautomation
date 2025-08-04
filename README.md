@@ -25,24 +25,5 @@ This project showcases an automated AWS cloud setup using Terraform, integrated 
 4. Plan & apply: `terraform plan && terraform apply`
 5. Monitor deployments via Azure DevOps pipeline.
 
-## 📂 Structure
-
-aws-infra-terraform/
-├── modules/
-│   ├── vpc/
-│   ├── ec2/
-│   ├── rds/
-│   └── s3/
-├── environments/
-│   ├── dev/
-│   └── prod/
-├── pipelines/
-│   └── azure-devops/
-├── scripts/
-│   └── bootstrap.sh
-├── .gitignore
-├── README.md
-└── main.tf
-
 
 ## 📂 Structure
