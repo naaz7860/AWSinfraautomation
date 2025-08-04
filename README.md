@@ -19,7 +19,7 @@ This project showcases an automated AWS cloud setup using Terraform, integrated 
 - **Bash**
 
 ## 🔧 Setup
-1. Clone repo: `git clone https://github.com/naaz7860/aws-infra-terraform.git`
+1. Clone repo: `git clone https://github.com/naaz7860/AWSinfraautomation.git`
 2. Navigate to env folder: `cd environments/dev`
 3. Initialize Terraform: `terraform init`
 4. Plan & apply: `terraform plan && terraform apply`
