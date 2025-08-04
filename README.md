@@ -26,4 +26,3 @@ This project showcases an automated AWS cloud setup using Terraform, integrated 
 5. Monitor deployments via Azure DevOps pipeline.
 
 
-## 📂 Structure
